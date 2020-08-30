@@ -1,6 +1,9 @@
-### Hi there, my name is Matthias Keim 👋
+### Hi there, nice to see you 👋
 
-I am software developer from South Tyrol, Italy currently living in Innsbruck, Austria.
+- 👱‍♂️ I'm a software developer from 🇪🇺 South Tyrol (Italy), currently living in Innsbruck (Austria) 🇪🇺.
+- 🧑‍🎓 I'm about to finish my master in Computer Sience at the University of Innsbruck.
+- 👨‍💻 I work as a fullstack developer at [photogram.pro](https://www.photogram.pro)
+- 
 
 ## My tech stack:
 
@@ -47,6 +50,5 @@ I am software developer from South Tyrol, Italy currently living in Innsbruck, A
 
 ![alt text](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
 ![alt text](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-
 
 ![alt text](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white)
