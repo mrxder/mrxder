@@ -1,6 +1,6 @@
 ### Hi there, nice to see you 👋
 
-- 👱‍♂️ I'm a software developer from 🇪🇺 South Tyrol (Italy), currently living in Innsbruck (Austria) 🇪🇺.
+- 👱‍♂️ I'm a software developer from South Tyrol (Italy), currently living in Innsbruck (Austria).
 - 🧑‍🎓 I'm about to finish my master in Computer Science at the University of Innsbruck.
 - 👨‍💻 I work as a full stack developer at [photogram.pro](https://www.photogram.pro)
 
